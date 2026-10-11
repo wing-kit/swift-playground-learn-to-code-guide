@@ -1,0 +1,7 @@
+.DS_Store
+*.playgroundbook
+*.playgroundbook.zip
+*.swiftpm.zip
+*.zip
+cdn/
+Playgrounds/
