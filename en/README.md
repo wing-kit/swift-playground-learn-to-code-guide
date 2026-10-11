@@ -10,6 +10,7 @@ Original notes on installing **Swift Playground** on Mac, opening **Learn to Cod
 
 ## Contents
 
+0. [**Full gallery tutorial index (38 items)**](../gallery/README.md)
 1. [What is Swift Playground?](#1-what-is-swift-playground)
 2. [Install on Mac](#2-install-on-mac)
 3. [Open Learn to Code 1](#3-open-learn-to-code-1)
@@ -21,6 +22,17 @@ Original notes on installing **Swift Playground** on Mac, opening **Learn to Cod
 9. [License](#9-license)
 
 ---
+
+
+---
+
+## Full gallery coverage
+
+Original notes for **all 38** Swift Playground gallery titles (feed `7A53`):
+
+👉 **[gallery/README.md](../gallery/README.md)**
+
+Each page: audience, how to open, official CDN URL (link only), classroom goals, concept notes. **No** Apple binaries.
 
 ## 1. What is Swift Playground?
 

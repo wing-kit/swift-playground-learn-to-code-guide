@@ -10,6 +10,7 @@
 
 ## 目錄
 
+0. [**圖庫 38 項教程總目**](gallery/README.md) ← 每個 Apple gallery 項目一頁
 1. [Swift Playground 係咩](#1-swift-playground-係咩)
 2. [點樣喺 Mac 安裝](#2-點樣喺-mac-安裝)
 3. [打開 Learn to Code 1](#3-打開-learn-to-code-1)
@@ -21,6 +22,17 @@
 9. [授權](#9-授權)
 
 ---
+
+
+---
+
+## 圖庫全覆蓋教程
+
+Apple Swift Playground 圖庫（feed `7A53`）入面 **38** 個項目，本 repo 各有一頁原創課堂筆記（繁中為主＋短英文）：
+
+👉 **[gallery/README.md](gallery/README.md)**
+
+每頁包含：適合誰、點打開、官方 CDN 連結（只 URL）、學習目標、概念備註、相關頁。**唔包含** `.playgroundbook`／`.swiftpm`／zip。
 
 ## 1. Swift Playground 係咩
 
@@ -178,6 +190,7 @@ sequenceDiagram
 - CDN feed index：`https://playgrounds-cdn.apple.com/feedIndex.json`
 - 本指南對應 App 約 **4.7** 時常用 feed：`7A53`（見 index 入面 `v4.6` → `7A53`）
 - **自行下載清單（只有 URL）**：[docs/CDN-MANIFEST.md](docs/CDN-MANIFEST.md)
+- **逐項教程（38／38）**：[gallery/README.md](gallery/README.md)
 
 ---
 
